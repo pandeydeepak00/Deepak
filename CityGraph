@@ -1,0 +1,46 @@
+(
+	{
+			"primaryKey" = "50";
+			"cityName" = "Delhi";
+			"fkStateId" = "61";
+		},
+	{
+			"primaryKey" = "51";
+			"cityName" = "Ghaziabad";
+			"fkStateId" = "62";
+		},
+	{
+			"primaryKey" = "53";
+			"cityName" = "Patna";
+			"fkStateId" = "64";
+		},
+	{
+			"primaryKey" = "54";
+			"cityName" = "Pilani";
+			"fkStateId" = "65";
+		},
+	{
+			"primaryKey" = "55";
+			"cityName" = "Gurgaon";
+			"fkStateId" = "63";
+		},
+	{
+			"primaryKey" = "57";
+			"cityName" = "jaipur";
+			"fkStateId" = "65";
+		},
+	{
+			"primaryKey" = "58";
+			"cityName" = "Udaipur";
+			"fkStateId" = "61";
+		},
+	{
+			"primaryKey" = "59";
+			"cityName" = "Dhanbad";
+			"fkStateId" = "62";
+		},
+	{
+			"primaryKey" = "60";
+			"cityName" = "Fridabad";
+			"fkStateId" = "62";
+		})

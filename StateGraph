@@ -1,0 +1,25 @@
+(
+	{
+			"primaryKey" = "60";
+			"stateName" = "Delhi";
+		},
+	{
+			"primaryKey" = "61";
+			"stateName" = "Delhi";
+		},
+	{
+			"primaryKey" = "62";
+			"stateName" = "Bihar";
+		},
+	{
+			"primaryKey" = "63";
+			"stateName" = "Rajsthan";
+		},
+	{
+			"primaryKey" = "64";
+			"stateName" = "Haryana";
+		},
+	{
+			"primaryKey" = "65";
+			"stateName" = "Jharkhand";
+		})

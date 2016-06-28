@@ -1,0 +1,36 @@
+(
+	{
+			"primaryKey" = "40";
+			"addressLine2" = "pin code: 847211";
+			"fkPersonID" = "1";
+			"addressLine1" = "house no: 261";
+			"fkCityId" = "50";
+		},
+	{
+			"primaryKey" = "41";
+			"addressLine2" = "pin code: 783429";
+			"fkPersonID" = "2";
+			"addressLine1" = "house no: 125";
+			"fkCityId" = "51";
+		},
+	{
+			"primaryKey" = "43";
+			"addressLine2" = "pin code: 653423";
+			"fkPersonID" = "4";
+			"addressLine1" = "house no: 84";
+			"fkCityId" = "53";
+		},
+	{
+			"primaryKey" = "44";
+			"addressLine2" = "pin code: 786432";
+			"fkPersonID" = "5";
+			"addressLine1" = "house no: 174";
+			"fkCityId" = "54";
+		},
+	{
+			"primaryKey" = "45";
+			"addressLine2" = "pin code: 645323";
+			"fkPersonID" = "6";
+			"addressLine1" = "house no: 234";
+			"fkCityId" = "55";
+		})
